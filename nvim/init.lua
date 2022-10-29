@@ -1,0 +1,8 @@
+require("auro.plugins-setup")
+require("auro.core.options")
+require("auro.core.keymaps")
+require("auro.core.colorscheme")
+require("auro.plugins.comment")
+require("auro.plugins.nvim-tree")
+require("auro.plugins.lualine")
+require("auro.plugins.telescope")
